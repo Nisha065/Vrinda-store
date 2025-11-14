@@ -34,3 +34,6 @@ Which customer segment (new/repeat) drives more revenue?
 ## Dashboard
 ![Uploading Screenshot 2025-11-13 180513.png…]()
 
+# Conclusion
+The Vrinda Store analysis clearly shows that the business performance depends heavily on the female customer segment, online channels, and specific high-performing states.
+
